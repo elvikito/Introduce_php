@@ -1,4 +1,2 @@
-php_basico
+PHP Basic 
 ==========
-
-control de secciones
